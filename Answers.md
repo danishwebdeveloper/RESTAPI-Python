@@ -6,6 +6,7 @@
 * The Staffbase technique for Automatic CSV Imports could very likely be utilized to automatically update the News portion of their app, not just for onboarding new users, if their preexisting system generates news daily and they do not want to manually update it each day. I'd assist them in setting up the Automatic CSV Import to create fresh articles to their New Channel or Channels automatically.
 
 
+
 2- Question two: Mapping Issues & Solution
 * Customer attempting to setting up an Automatic CSV file is almost very close, but while mapping profile-field:firstName,profile-field:lastName,profile-field:position,eMail they are missing the important field a unique **externalID** as clearly written in the Automatic CSV Import guide.
 
