@@ -7,7 +7,7 @@
 
 
 
-2- Question two: Mapping Issues & Solution
+2- Question two: Mapping Issue & Solution
 * Customer attempting to setting up an Automatic CSV file is almost very close, but while mapping profile-field:firstName,profile-field:lastName,profile-field:position,eMail they are missing the important field a unique **externalID** as clearly written in the Automatic CSV Import guide.
 
 * As I was approaching the problem, I studied the Automatic CSV Import instructions carefully, as well as the other documentation on the Staffbase support and developer portals, specifically the CSV File Examples provided by Staffbase. It became clear to me that they were missing a unique externalID. 
