@@ -1,4 +1,4 @@
-# Technical Support Engineer
+## Technical Support Engineer
 
  1- Question One: Add New Feature
 * I would recommend creating a News Channel directly from the Content area of their Staffbase Administrator login for the imaginary customer that wants to display their news on the app. Moreover, the Staffbase API provides interaction with the News section, in addition to utilizing the Staffbase GUI to manually create new Channels and Posts. Create new channels and publish new content using the API.
