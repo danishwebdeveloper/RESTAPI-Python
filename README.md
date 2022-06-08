@@ -14,6 +14,6 @@ Thank you for considering my application for the positions of Technical Support 
 * cd into your project.
 * Install Python Interpreter.
 * Install Python dotenv for set up an environment variables.
-* Make .env file and set up an environment variables
+* Make .env file and keep **API_KEY** and **API_URL_BASE** in .env file.
 
 
