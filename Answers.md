@@ -14,3 +14,9 @@
 - As I was approaching the problem, I studied the Automatic CSV Import instructions carefully, as well as the other documentation on the Staffbase support and developer portals, specifically the CSV File Examples provided by Staffbase. It became clear to me that they were missing a unique externalID. 
 
 - I follow the step according to the instruction that every user needs an unique identifier that will be used as an external ID in Staffbase.” I would instruct the customer to add that column to their CSV file and to update the mapping accordingly and gets the desired result.
+
+**3- Question Three: Updating Profile Pictures**
+
+* I choose Python to complete this task. I also did that task in PHP as well. Here I have only share the python script which you can found in the file uploadAvatars.py file and these images are stored in the images folder.
+* Thank you so much for consider my application for the position of Technical Support Engineer. 
+
