@@ -15,7 +15,7 @@
 
 - I follow the step according to the instruction that every user needs an unique identifier that will be used as an external ID in Staffbase.” I would instruct the customer to add that column to their CSV file and to update the mapping accordingly and gets the desired result.
 
-**3- Question Three: Updating Profile Pictures**
+**3- Question three: Updating Profile Pictures**
 
 * I choose Python to complete this task. I also did that task in PHP as well. Here I have only share the python script which you can found in the file uploadAvatars.py file and these images are stored in the images folder. 
 * I can also share the PHP script on your demand.
