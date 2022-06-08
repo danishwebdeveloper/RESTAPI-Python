@@ -17,6 +17,6 @@
 
 **3- Question Three: Updating Profile Pictures**
 
-* I choose Python to complete this task. I also did that task in PHP as well. Here I have only share the python script which you can found in the file uploadAvatars.py file and these images are stored in the images folder.
-* Thank you so much for consider my application for the position of Technical Support Engineer. 
+* I choose Python to complete this task. I also did that task in PHP as well. Here I have only share the python script which you can found in the file uploadAvatars.py file and these images are stored in the images folder. I can also share the PHP script on your demand.
+* Thank you so much for consider my application for the position of Technical Support Engineer.
 
